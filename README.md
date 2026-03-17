@@ -1,2 +1,2 @@
 # wndyx.github.io
-Wendy's personal website
+Wendy Xiao's personal website — JHU CS & AMS undergrad, research in NLP, ML, and computer vision.
